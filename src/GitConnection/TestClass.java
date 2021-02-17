@@ -1,3 +1,4 @@
+package GitConnection;
 
 public class TestClass {
 
